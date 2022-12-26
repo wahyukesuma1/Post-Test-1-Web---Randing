@@ -1,0 +1,26 @@
+html {scroll-behavior: smooth;}
+
+body {
+    background-color: rgb(164, 201, 199);
+}
+
+* {margin: 0;}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.card-text{ text-decoration: none;}
+
+table {
+    background-color: white;
+    margin: auto;
+    width: 50% !important;
+}
+
+
+
+li {list-style-type: none;}
+
